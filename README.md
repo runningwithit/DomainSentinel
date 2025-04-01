@@ -26,7 +26,7 @@ Domain Sentinel is a lightweight Python tool designed to monitor the status of a
 2.  **Install Dependencies:** 
 Although the script primarily uses standard libraries, make sure you have the requests library installed:
 ```bash
-	pip install requests
+pip install requests
 ```
 ## Configuration:
 Open the monitor_domain.py file and update the following configuration parameters with your own settings:
