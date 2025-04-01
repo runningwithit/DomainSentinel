@@ -1,7 +1,7 @@
 
 # DomainSentinel
 
-Domain Sentinel is a lightweight Python tool designed to monitor the status of a domain. It checks for changes in the WHOIS updated date and the HTTP status code, then sends an email notification if any changes are detected. This tool is ideal for users who want to keep track of their domain's status and receive timely alerts via email.
+Domain Sentinel is a lightweight Python tool designed to monitor the status of a domain. It checks for changes in the WHOIS updated date and the HTTP status code, then sends an email notification if any changes are detected. The email you receive will include the monitored domain name, whether its status remains the same or has changed, the results of the WHOIS lookup including the expiration date, and the current HTTP status. This tool is ideal for users who want to keep track of domain's status and receive timely alerts via email.
 
 ## Features
 
